@@ -1,5 +1,4 @@
-# master-project-seminar
-## DataScience in Bioinformatics WiSe 2022/23
+# DataScience in Bioinformatics WiSe 2022/23
 
 Welcome to DataScience in Bioinformatics in the WS 2022/23!
 
