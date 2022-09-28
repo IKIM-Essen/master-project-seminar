@@ -8,4 +8,15 @@ So far the module is planned as virtual only and a meeting takes place every mon
 
 A Kick-off meeting will take place on the 10.10.2022 at 10 am.
 
+Timeline so far:
+
+| Day | Date | Topics | Lecturers |
+| :---: | :----: | :---: | :---: |
+| 1 | 10.10.22 |Introduction, Questions, Presentation Topics | Folker Meyer, Hendrik Schmidt, Alexander Thomas|
+| 2 | 17.10.22 |Biology basics, Viruses |Folker Meyer, Simon Magin|
+| 3 | 24.10.22 | Conda, Bioinformatics Basics, Git, Reproducebility |Hendrik Schmidt, Alexander Thomas, Folker Meyer|
+| Dropped | 31.10.22 |-|-|
+| 4 | 07.11.22 |Snakemake|Johannes Köster|
+
 We will provide more information soon and keep you updated.
+
