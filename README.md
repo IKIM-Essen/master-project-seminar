@@ -12,11 +12,11 @@ Timeline so far:
 
 | Day | Date | Topics | Lecturers |
 | :---: | :----: | :---: | :---: |
-| 1 | 10.10.2022 |Introduction, Questions, Presentation Topics | Folker Meyer, Hendrik Schmidt, Alexander Thomas|
-| 2 | 17.10.2022 |Biology basics, Viruses |Folker Meyer, Simon Magin|
-| 3 | 24.10.2022 | Conda, Bioinformatics Basics, Git, Reproducebility |Hendrik Schmidt, Alexander Thomas, Folker Meyer|
-| Dropped | 31.10.2022 |-|-|
-| 4 | 07.11.2022 |Snakemake|Johannes Köster|
+| 1 | 10.10.2022 | Introduction, Questions, Presentation Topics | Folker Meyer, Hendrik Schmidt, Alexander Thomas |
+| 2 | 17.10.2022 | Biology basics, Viruses | Folker Meyer, Simon Magin |
+| 3 | 24.10.2022 | Conda, Bioinformatic Basics, Git, Reproducibility | Hendrik Schmidt, Alexander Thomas, Folker Meyer |
+| Dropped | 31.10.2022 | - | - |
+| 4 | 07.11.2022 | Snakemake | Johannes Köster |
 
 We will provide more information soon and keep you updated.
 
