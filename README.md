@@ -20,3 +20,14 @@ Timeline so far:
 
 We will provide more information soon and keep you updated.
 
+The link to our Kick-off Zoom-Meeting on Monday, 10.10. at 10 am:
+
+Thema: Data science in Bioinformatics - Kick-Off
+Uhrzeit: 10.Okt. 2022 10:00 AM Amsterdam, Berlin, Rom, Stockholm, Wien
+
+Zoom-Meeting beitreten
+[https://uni-due.zoom.us/j/69905688088?pwd=TEp0ZVRwZjRpZEZkcC9CU3BHWmF3UT09](https://uni-due.zoom.us/j/69905688088?pwd=TEp0ZVRwZjRpZEZkcC9CU3BHWmF3UT09)
+
+Meeting-ID: 699 0568 8088
+Kenncode: 552117
+
