@@ -2,13 +2,19 @@
 
 Welcome to DataScience in Bioinformatics in the WS 2022/23!
 
+Remeber: Binding registration is due on October 14th!
+
 We will start on the 10.10.2022 at 10 am with an introductory meeting. Afterwards we will provide you with some basic information about viruses and bacteria. Then we will familiarize ourselves with various bioinformatic toolboxes that are used to analyze sequencing results. We will then use these toolboxes to create a small pipeline that will allow automated analysis of sequences. You will learn about the methods used for this kind of analysis like filtering, assembly and variant calling. Coding will be done in python (python pre-skills required) and the pipeline will be created with snakemake, a popular workflow management system.
 
 So far the module is planned as virtual only and a meeting takes place every monday at 2 pm starting at the 17.10.2022 and ends with a meeting on the 03.02.2023.
 
-A Kick-off meeting will take place on the 10.10.2022 at 10 am.
+The link to our next Zoom-Meeting on Monday, 17.10. at 14 am:
 
-Timeline so far:
+
+
+
+
+## Timeline
 
 | Day | Date | Topics | Lecturers |
 | :---: | :----: | :---: | :---: |
@@ -17,17 +23,24 @@ Timeline so far:
 | 3 | 24.10.2022 | Conda, Bioinformatic Basics, Git, Reproducibility | Hendrik Schmidt, Alexander Thomas, Folker Meyer |
 | Dropped | 31.10.2022 | - | - |
 | 4 | 07.11.2022 | Snakemake | Johannes Köster |
+| 5 | 14.11.22 | Sequence Processing Presentations | Simon Magin |
+| 6 | 21.11.22 | Genome Reconstruction Presentations | tba |
+| 7 | 28.11.22 | Genome Analysis Presentations |Ann-Kathrin Brüggemann |
+| 8 | 05.12.22 | Lineage Assignment Presentations | Josefa Welling |
+| 9 | 12.12.22 | Q&A - Help session | all |
+| 10 | 19.12.22 | Q&A - Help session | all |
+| 11 | 09.01.23 | Q&A - Help session | all |
+| 12 | 16.01.23 | Q&A - Help session | all |
+| 13 | 23.01.23 | Final Presentations | Folker Meyer |
+| 14 | 30.01.23 | Final Presentations | Folker Meyer |
 
-We will provide more information soon and keep you updated.
 
-The link to our Kick-off Zoom-Meeting on Monday, 10.10. at 10 am:
+## Contacts
 
-Thema: Data science in Bioinformatics - Kick-Off
-Uhrzeit: 10.Okt. 2022 10:00 AM Amsterdam, Berlin, Rom, Stockholm, Wien
-
-Zoom-Meeting beitreten
-[https://uni-due.zoom.us/j/69905688088?pwd=TEp0ZVRwZjRpZEZkcC9CU3BHWmF3UT09](https://uni-due.zoom.us/j/69905688088?pwd=TEp0ZVRwZjRpZEZkcC9CU3BHWmF3UT09)
-
-Meeting-ID: 699 0568 8088
-Kenncode: 552117
-
+Prof. Folker Meyer - folker.meyer@uni-due.de      
+Dr. Simon Magin - simon.magin@uni-due.de          
+Hendrik Schmidt - hendrik.schmidt@uni-due.de      
+Alexander Thomas  - alexander.thomas@uni-due.de     
+Ann-Kathrin Brüggemann - ann-kathrin.brueggemann@uni-due.de   
+Katharina Block - katharina.block@uni-due.de     
+Josefa Welling - josefa.welling@uni-due.de    
