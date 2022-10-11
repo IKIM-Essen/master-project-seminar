@@ -36,8 +36,7 @@ The link to our next Zoom-Meeting on Monday, 17.10. at 14 am:
 
 
 ## Contacts
-
-Prof. Folker Meyer - folker.meyer@uni-due.de      
+   
 Dr. Simon Magin - simon.magin@uni-due.de          
 Hendrik Schmidt - hendrik.schmidt@uni-due.de      
 Alexander Thomas  - alexander.thomas@uni-due.de     
