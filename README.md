@@ -2,7 +2,7 @@
 
 Welcome to DataScience in Bioinformatics in the WS 2022/23!
 
-Remeber: Binding registration is due on October 16th!
+### Remeber: Binding registration is due on October 16th! Please write an email.
 
 We will start on the 10.10.2022 at 10 am with an introductory meeting. Afterwards we will provide you with some basic information about viruses and bacteria. Then we will familiarize ourselves with various bioinformatic toolboxes that are used to analyze sequencing results. We will then use these toolboxes to create a small pipeline that will allow automated analysis of sequences. You will learn about the methods used for this kind of analysis like filtering, assembly and variant calling. Coding will be done in python (python pre-skills required) and the pipeline will be created with snakemake, a popular workflow management system.
 
