@@ -13,6 +13,8 @@ https://academic.oup.com/bib/article/22/2/631/6067880
 
 Include information about your topic from at least one other peer reviewed paper in your presentation.
 
+&nbsp;
+
 ### Sequencing Technologies - Illumina, Nanopore etc.
 
 * Briefly explain NGS
@@ -22,6 +24,8 @@ Include information about your topic from at least one other peer reviewed paper
 https://pubmed.ncbi.nlm.nih.gov/30478097/
 
 Include information about your topic from at least one other peer reviewed paper in your presentation.
+
+&nbsp;
 
 ### Quality Control (QC) - Checking of data reliability
 
@@ -35,6 +39,8 @@ https://doi.org/10.1093/bioinformatics/btw354
 
 Include information about your topic from at least one other peer reviewed paper in your presentation.
 
+&nbsp;
+
 ## Day 6 21.11.2022
 
 ### Trimming & Filtering - Bias and error reduction
@@ -47,6 +53,8 @@ https://doi.org/10.1093/bioinformatics/bty560
 
 Include information about your topic from at least one other peer reviewed paper in your presentation.
 
+&nbsp;
+
 ### Alignment - Sequence analysis - Algorithms
 
 * Explain the underlying algorithms
@@ -58,6 +66,8 @@ https://pubmed.ncbi.nlm.nih.gov/2231712/
 
 Include information about your topic from at least one other peer reviewed paper in your presentation.
 
+&nbsp;
+
 ### Alignment 2 - Sequence analysis - Implementation
 
 * Explain the Implementation
@@ -67,6 +77,8 @@ Include information about your topic from at least one other peer reviewed paper
 https://doi.org/10.1093/bioinformatics/btp324
 
 Include information about your topic from at least one other peer reviewed paper in your presentation.
+
+&nbsp;
 
 ## Day 7 28.11.2022
 
@@ -81,6 +93,8 @@ https://www.nature.com/articles/nmeth.1935
 
 Include information about your topic from at least one other peer reviewed paper in your presentation.
 
+&nbsp;
+
 ### Assembly 2 - Reconstructing sequences - Implementation
 
 * Explain superior tool
@@ -89,6 +103,8 @@ Include information about your topic from at least one other peer reviewed paper
 https://academic.oup.com/bib/article/22/5/bbab102/6210065
 
 Include information about your topic from at least one other peer reviewed paper in your presentation.
+
+&nbsp;
 
 ### Scaffolding - Linking of genomic sequences
 
@@ -99,6 +115,8 @@ Include information about your topic from at least one other peer reviewed paper
 https://doi.org/10.1186/s13059-019-1829-6
 
 Include information about your topic from at least one other peer reviewed paper in your presentation.
+
+&nbsp;
 
 ## Day 8 05.12.2022
 
@@ -112,6 +130,8 @@ https://doi.org/10.1093/bioinformatics/btt086
 
 Include information about your topic from at least one other peer reviewed paper in your presentation.
 
+&nbsp;
+
 ### Variant calling - Identification of represented variants
 
 * Genomic variants (SNPs, SNVs, indels)
@@ -121,6 +141,8 @@ Include information about your topic from at least one other peer reviewed paper
 https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-01993-6
 
 Include information about your topic from at least one other peer reviewed paper in your presentation.
+
+&nbsp;
 
 ### Lineage Assignment - Identification of represented lineages
 
