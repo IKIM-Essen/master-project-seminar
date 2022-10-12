@@ -8,16 +8,7 @@ We will start on the 10.10.2022 at 10 am with an introductory meeting. Afterward
 
 So far the module is planned as virtual only and a meeting takes place every monday at 2 pm starting at the 17.10.2022 and ends with a meeting on the 03.02.2023.
 
-The link to our next Zoom-Meeting on Monday, 17.10. at 14 am:
-
-Thema: Data science in Bioinformatics
-Uhrzeit: Dies ist ein regelmäßig stattfindendes Meeting Jederzeit treffen
-
-Zoom-Meeting beitreten
-https://uni-due.zoom.us/j/64678395635?pwd=NExyb3liUXhTdkxrUU84RkNubWRSZz09
-
-Meeting-ID: 646 7839 5635
-Kenncode: 688299
+The link to our next Zoom-Meeting on Monday, 17.10. at 14 am will be send to you by mail.
 
 
 ## Timeline
