@@ -10,8 +10,14 @@ So far the module is planned as virtual only and a meeting takes place every mon
 
 The link to our next Zoom-Meeting on Monday, 17.10. at 14 am:
 
+Thema: Data science in Bioinformatics
+Uhrzeit: Dies ist ein regelmäßig stattfindendes Meeting Jederzeit treffen
 
+Zoom-Meeting beitreten
+https://uni-due.zoom.us/j/64678395635?pwd=NExyb3liUXhTdkxrUU84RkNubWRSZz09
 
+Meeting-ID: 646 7839 5635
+Kenncode: 688299
 
 
 ## Timeline
