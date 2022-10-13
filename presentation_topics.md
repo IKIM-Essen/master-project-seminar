@@ -1,5 +1,7 @@
 # Presentation Topics
 
+Please discuss the paper provided in more detail and include at least one other paper on the topic in your presentation.
+
 ## Day 5 14.11.2022
 
 ### Bioinformatics and Covid - Basics concerning SARS-CoV-2 analysis in bioinformatics
@@ -19,7 +21,7 @@ Include information about your topic from at least one other peer reviewed paper
 
 * Briefly explain NGS
 * Briefly explain Illumina sequencing (Sequencing by synthesis)
-* Paired end vs single end reads
+* Paired-end vs single-end reads
 
 https://pubmed.ncbi.nlm.nih.gov/30478097/
 
@@ -45,7 +47,7 @@ Include information about your topic from at least one other peer reviewed paper
 
 ### Trimming & Filtering - Bias and error reduction
 
-* Explain trimming & filtering and the difference
+* Explain trimming & filtering and their differences
 * Coverage
 * Read length vs read quality
 
@@ -57,10 +59,10 @@ Include information about your topic from at least one other peer reviewed paper
 
 ### Alignment - Sequence analysis - Algorithms
 
-* Explain the underlying algorithms
 * Explain alignment
+* Explain the underlying algorithms
 * local vs global
-* pairwise vs multisequence
+* pairwise vs multi-sequence
 
 https://pubmed.ncbi.nlm.nih.gov/2231712/
 
@@ -70,9 +72,9 @@ Include information about your topic from at least one other peer reviewed paper
 
 ### Alignment 2 - Sequence analysis - Implementation
 
-* Explain the Implementation
+* Explain the implementation
 * Compare tools
-* Usecases
+* Use cases
 
 https://doi.org/10.1093/bioinformatics/btp324
 
@@ -84,8 +86,8 @@ Include information about your topic from at least one other peer reviewed paper
 
 ### Assembly - Reconstructing sequences - Algorithms
 
-* Explain different approaches (de-novo, reference-guided, short read, long read, hybrid)
-* Explain repeats
+* Explain different approaches (de-novo, reference-guided; short read, long read, hybrid)
+* Explain the problem with repetitive sequence segments (repeats)
 * Explain contigs
 * Goals
 
@@ -135,8 +137,8 @@ Include information about your topic from at least one other peer reviewed paper
 ### Variant calling - Identification of represented variants
 
 * Genomic variants (SNPs, SNVs, indels)
-* Compare to other tools
 * Special features
+* Compare to other tools
 
 https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-01993-6
 
