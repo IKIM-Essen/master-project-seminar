@@ -2,6 +2,8 @@
 
 Please discuss the paper provided in more detail and include at least one other paper on the topic in your presentation. Your presentation should take at least 15 and no longer than 20 minutes. 
 
+&nbsp;
+
 ## Day 5 14.11.2022
 
 ### Bioinformatics and Covid - Basics concerning SARS-CoV-2 analysis in bioinformatics
