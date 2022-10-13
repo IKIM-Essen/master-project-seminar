@@ -1,6 +1,6 @@
 # Presentation Topics
 
-Please discuss the paper provided in more detail and include at least one other paper on the topic in your presentation.
+Please discuss the paper provided in more detail and include at least one other paper on the topic in your presentation. Your presentation should take at least 15 and no longer than 20 minutes. 
 
 ## Day 5 14.11.2022
 
