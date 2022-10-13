@@ -29,8 +29,8 @@ Include information about your topic from at least one other peer reviewed paper
 
 ### Quality Control (QC) - Checking of data reliability
 
-* Explain phred score
-* Explain fastq format
+* Explain Phred score
+* Explain FASTQ format
 * Importance
 * Mention typical problems that occur
 * good vs bad data
