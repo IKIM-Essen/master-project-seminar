@@ -21,7 +21,7 @@ The link to our next Zoom-Meeting on Monday, 17.10. at 14 am will be send to you
 | Dropped | 31.10.2022 | - | - |
 | 4 | 07.11.2022 | Snakemake | Johannes Köster |
 | 5 | 14.11.22 | Sequence Processing Presentations | Simon Magin |
-| 6 | 21.11.22 | Genome Reconstruction Presentations | tba |
+| 6 | 21.11.22 | Genome Reconstruction Presentations | Katharina Block, Ann-Kathrin Brüggemann |
 | 7 | 28.11.22 | Genome Analysis Presentations |Ann-Kathrin Brüggemann |
 | 8 | 05.12.22 | Lineage Assignment Presentations | Josefa Welling |
 | 9 | 12.12.22 | Q&A - Help session | all |
