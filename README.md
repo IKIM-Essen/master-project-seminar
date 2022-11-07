@@ -10,7 +10,6 @@ So far the module is planned as virtual only and a meeting takes place every mon
 
 The link to our next Zoom-Meeting on Monday, 17.10. at 14 am will be send to you by mail.
 
-
 ## Timeline
 
 | Day | Date | Topics | Lecturers |
@@ -31,6 +30,28 @@ The link to our next Zoom-Meeting on Monday, 17.10. at 14 am will be send to you
 | 13 | 23.01.23 | Final Presentations | Folker Meyer |
 | 14 | 30.01.23 | Final Presentations | Folker Meyer |
 
+## Presentation topic and group per participant
+
+You will find your information under your initials. For example: Prof Folker Meyer would be FM.
+
+Each group has been assigned a host. Please use this host to ensure that not everyone uses the same.
+
+| Participant | Presentation topic | Group | Host |
+| --- | --- | --- | --- |
+| CL | 10 | 1 | c44 |
+| HY | 4 | 1 | c44 |
+| RL | 3 | 1 | c44 |
+| YY | 6 | 1 | c44 |
+|  |  |  |  |
+| AS | 5 | 2 | c45 |
+| FE | 12 | 2 | c45 |
+| HE | 7 | 2 | c45 |
+| YT | 2 | 2 | c45 |
+|  |  |  |  |
+| GP | 9 | 3 | c47 |
+| JQ | 11 | 3 | c47 |
+| SA | 8 | 3 | c47 |
+| YL | 1 | 3 | c47 |
 
 ## Contacts
    
