@@ -10,6 +10,8 @@ So far the module is planned as virtual only and a meeting takes place every mon
 
 The link to our next Zoom-Meeting on Monday, 17.10. at 14 am will be send to you by mail.
 
+### News: Today's (28.11.2022) lecture will be postponed to next week due to technical problems, please inform your fellow students.
+
 ## Timeline
 
 | Day | Date | Topics | Lecturers |
