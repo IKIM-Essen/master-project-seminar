@@ -2,13 +2,9 @@
 
 Welcome to DataScience in Bioinformatics in the WS 2022/23!
 
-### Remeber: Binding registration is due on October 16th! Please write an email.
-
 We will start on the 10.10.2022 at 10 am with an introductory meeting. Afterwards we will provide you with some basic information about viruses and bacteria. Then we will familiarize ourselves with various bioinformatic toolboxes that are used to analyze sequencing results. We will then use these toolboxes to create a small pipeline that will allow automated analysis of sequences. You will learn about the methods used for this kind of analysis like filtering, assembly and variant calling. Coding will be done in python (python pre-skills required) and the pipeline will be created with snakemake, a popular workflow management system.
 
 So far the module is planned as virtual only and a meeting takes place every monday at 2 pm starting at the 17.10.2022 and ends with a meeting on the 03.02.2023.
-
-The link to our next Zoom-Meeting on Monday, 17.10. at 14 am will be send to you by mail.
 
 ### News: Today's (28.11.2022) lecture will be postponed to next week due to technical problems, please inform your fellow students.
 
@@ -23,9 +19,9 @@ The link to our next Zoom-Meeting on Monday, 17.10. at 14 am will be send to you
 | 4 | 07.11.2022 | Snakemake | Johannes Köster |
 | 5 | 14.11.22 | Sequence Processing Presentations | Simon Magin |
 | 6 | 21.11.22 | Genome Reconstruction Presentations | Katharina Block, Ann-Kathrin Brüggemann |
-| 7 | 28.11.22 | Genome Analysis Presentations |Ann-Kathrin Brüggemann |
-| 8 | 05.12.22 | Lineage Assignment Presentations | Josefa Welling |
-| 9 | 12.12.22 | Q&A - Help session | all |
+| 7 | 28.11.22 | Cancelled | all |
+| 8 | 05.12.22 | Genome Analysis Presentations |Ann-Kathrin Brüggemann |
+| 9 | 12.12.22 | Lineage Assignment Presentations | Josefa Welling |
 | 10 | 19.12.22 | Q&A - Help session | all |
 | 11 | 09.01.23 | Q&A - Help session | all |
 | 12 | 16.01.23 | Q&A - Help session | all |
@@ -59,8 +55,8 @@ Each group has been assigned a host. Please use this host to ensure that not eve
    
 Dr. Simon Magin - simon.magin@uni-due.de          
 Hendrik Schmidt - hendrik.schmidt@uni-due.de      
-Alexander Thomas  - alexander.thomas@uni-due.de     
-Ann-Kathrin Brüggemann - ann-kathrin.brueggemann@uni-due.de   
-Katharina Block - katharina.block@uni-due.de     
-Josefa Welling - josefa.welling@uni-due.de    
+Alexander Thomas  - alexander.thomas@uni-due.de, alexander.thomas@uk-essen.de
+Ann-Kathrin Brüggemann - ann-kathrin.brueggemann@uni-due.de, ann-kathrin.brueggemann@uk-essen.de
+Katharina Block - katharina.block@uni-due.de, katharina.block@uk-essen.de    
+Josefa Welling - josefa.welling@uni-due.de, josefa.welling@uk-essen.de
 Folker Meyer - folker.meyer@uni-due.de
