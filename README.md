@@ -55,8 +55,8 @@ Each group has been assigned a host. Please use this host to ensure that not eve
    
 Dr. Simon Magin - simon.magin@uni-due.de          
 Hendrik Schmidt - hendrik.schmidt@uni-due.de      
-Alexander Thomas  - alexander.thomas@uni-due.de, alexander.thomas@uk-essen.de
-Ann-Kathrin Brüggemann - ann-kathrin.brueggemann@uni-due.de, ann-kathrin.brueggemann@uk-essen.de
-Katharina Block - katharina.block@uni-due.de, katharina.block@uk-essen.de    
-Josefa Welling - josefa.welling@uni-due.de, josefa.welling@uk-essen.de
+Alexander Thomas  - alexander.thomas@uni-due.de, alexander.thomas@uk-essen.de     
+Ann-Kathrin Brüggemann - ann-kathrin.brueggemann@uni-due.de, ann-kathrin.brueggemann@uk-essen.de      
+Katharina Block - katharina.block@uni-due.de, katharina.block@uk-essen.de        
+Josefa Welling - josefa.welling@uni-due.de, josefa.welling@uk-essen.de      
 Folker Meyer - folker.meyer@uni-due.de
