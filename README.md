@@ -6,7 +6,7 @@ We will start on the 10.10.2022 at 10 am with an introductory meeting. Afterward
 
 So far the module is planned as virtual only and a meeting takes place every monday at 2 pm starting at the 17.10.2022 and ends with a meeting on the 03.02.2023.
 
-### News: Today's (28.11.2022) lecture will be postponed to next week due to technical problems, please inform your fellow students.
+### News: Please send us a mail with your private mail adress, so that we can send you the new lecture link.
 
 ## Timeline
 
