@@ -25,8 +25,9 @@ So far the module is planned as virtual only and a meeting takes place every mon
 | 10 | 19.12.22 | Q&A - Help session | all |
 | 11 | 09.01.23 | Q&A - Help session | all |
 | 12 | 16.01.23 | Q&A - Help session | all |
-| 13 | 23.01.23 | Final Presentations | Folker Meyer |
-| 14 | 30.01.23 | Final Presentations | Folker Meyer |
+| 13 | 23.01.23 | Q&A - Help session | all |
+| 14 | 30.01.23 | Q&A - Help session | all |
+| 15 | 13.02.23 | Final Presentations | Folker Meyer |
 
 ## Presentation topic and group per participant
 
