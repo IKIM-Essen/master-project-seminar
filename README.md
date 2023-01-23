@@ -5,7 +5,7 @@ Welcome to DataScience in Bioinformatics in the WS 2022/23!
 We will start on the 10.10.2022 at 10 am with an introductory meeting. Afterwards we will provide you with some basic information about viruses and bacteria. Then we will familiarize ourselves with various bioinformatic toolboxes that are used to analyze sequencing results. We will then use these toolboxes to create a small pipeline that will allow automated analysis of sequences. You will learn about the methods used for this kind of analysis like filtering, assembly and variant calling. Coding will be done in python (python pre-skills required) and the pipeline will be created with snakemake, a popular workflow management system.
 
 So far the module is planned as virtual only and a meeting takes place every monday at 2 pm starting at the 17.10.2022 and ends with a meeting on the 30.01.2023.
-The final presentations will take place on 13.02.2023 at 2 pm. Please all be prepared to present your projects.
+The final presentations will take place on 13.02.2023 and 14.02.2023 at 2 pm. Please all be prepared to present your projects.
 
 ## adapter sequences and reference genome
 
@@ -32,6 +32,7 @@ And the reference genome here: https://www.ncbi.nlm.nih.gov/nuccore/NC_045512
 | 13 | 23.01.23 | Q&A - Help session | all |
 | 14 | 30.01.23 | Q&A - Help session | all |
 | 15 | 13.02.23 | Final Presentations | Folker Meyer |
+| 16 | 14.02.23 | Final Presentations | Folker Meyer |
 
 ## Presentation topic and group per participant
 
