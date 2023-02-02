@@ -8,7 +8,7 @@ So far the module is planned as virtual only and a meeting takes place every mon
 ## new
 Please hand in the final version of your pipeline latest on **08.02.2023.** So we can check your results before the final presentations.
 
-The final presentations will take place on **13.02.2023 and 14.02.2023 at 2 pm.** Please all be prepared to present your projects.
+The final presentations will take place on **13.02.2023 at 2 pm and 14.02.2023 at 10 am.** Please all be prepared to present your projects.
 
 ## adapter sequences and reference genome
 
